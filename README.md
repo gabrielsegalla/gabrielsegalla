@@ -1,5 +1,4 @@
 
-<img style="margin-top: 40px;" align="right" width="400px" src="https://www.markchen.tech/static/typing-66efd0876b52520d0a71eaaedf77225c.gif">
 
 # Hi, welcome to my Github!
 
