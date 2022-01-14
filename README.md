@@ -2,7 +2,7 @@
 
 # Hi, welcome to my Github!
 
-#### My name is Gabriel Rodrigues Segalla, i'm 24 years old and i'm from Florianópolis, Brazil
+#### My name is Gabriel Rodrigues Segalla, i'm 25 years old and i'm from Florianópolis, Brazil
 
 - 💻 Software Developer
 -  :mortar_board: Analysis in Systems Development
