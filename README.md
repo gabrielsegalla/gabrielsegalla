@@ -2,7 +2,10 @@
 
 # Hi, welcome to my Github!
 
-#### My name is Gabriel Rodrigues Segalla, i'm 25 years old and i'm from Florianópolis, Brazil
+#### My name is Gabriel Rodrigues Segalla
+Fullstack Developer 👨‍💻
+
+I started 7 years ago as a develoepr and today I am very happy with what I do. The possibility of solving problems and bringing a benefit to someone, whether in personal or professional life, is the most valuable thing about being a developer.
 
 - 💻 Software Developer
 -  :mortar_board: Analysis in Systems Development
@@ -20,5 +23,5 @@
 
  <a href="https://www.linkedin.com/in/giovana-ferreira2003/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
- <a href="https://twitter.com/GabrielSegalla"><img src="https://img.shields.io/twitter/follow/GabrielSegalla?style=social" alt="Twitter"> </a>
+ <a href="https://twitter.com/segalladev"><img src="https://img.shields.io/twitter/follow/GabrielSegalla?style=social" alt="Twitter"> </a>
 
